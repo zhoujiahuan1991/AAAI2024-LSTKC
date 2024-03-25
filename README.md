@@ -1,5 +1,5 @@
 # [AAAI2024] LSTKC: Long Short-Term Knowledge Consolidation for Lifelong Person Re-Identification 
-The *official* repository for  [LSTKC: Long Short-Term Knowledge Consolidation for Lifelong Person Re-Identification](xxx).
+The *official* repository for  [LSTKC: Long Short-Term Knowledge Consolidation for Lifelong Person Re-Identification](https://aaai.org/wp-content/uploads/2024/02/AAAI-24_Main_2024-02-01.pdf).
 
 ![Framework](figs/framework.png)
 
