@@ -46,13 +46,13 @@ PRID
 ## Quick Start
 Training + evaluation:
 ```shell
-`python continual_train.py --data-dir path/to/PRID`
-(for example, `python continual_train.py --data-dir ../DATA/PRID`)
+python continual_train.py --data-dir path/to/PRID`
+(for example, `python continual_train.py --data-dir ../DATA/PRID)
 ```
 
 Evaluation from checkpoint:
 ```shell
-`python continual_train.py --data-dir path/to/PRID --test_folder /path/to/pretrained/folder --evaluate`
+python continual_train.py --data-dir path/to/PRID --test_folder /path/to/pretrained/folder --evaluate
 ```
 
 ## Results
