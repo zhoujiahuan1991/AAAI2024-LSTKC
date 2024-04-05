@@ -62,8 +62,18 @@ The following results were obtained with a single NVIDIA 4090 GPU:
 
 ## Citation
 If you find this code useful for your research, please cite our paper.
+```shell
+@inproceedings{xu2024lstkc,
+  title={LSTKC: Long Short-Term Knowledge Consolidation for Lifelong Person Re-identification},
+  author={Xu, Kunlun and Zou, Xu and Zhou, Jiahuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={14},
+  pages={16202--16210},
+  year={2024}
+}
+'''
 
-[1] Kunlun Xu, Xu Zou, Jiahuan Zhou. LSTKC: Long Short-Term Knowledge Consolidation for Lifelong Person Re-Identification[C]//Proceedings of the AAAI conference on artificial intelligence. 2024. 
 
 ## Acknowledgement
 Our code is based on the PyTorch implementation of [PatchKD](https://github.com/feifeiobama/PatchKD) and [PTKP](https://github.com/g3956/PTKP).
