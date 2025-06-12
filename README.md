@@ -7,7 +7,7 @@ The *official* repository for [LSTKC: Long Short-Term Knowledge Consolidation fo
 
 ## News
 * 🔥[2024.02.05] The code for LSTKC (accepted by AAAI 2024) is released!
-* 🔥[2024.03.24] The full paper for LSTKC (accepted by AAAI 2024) is publicly available!
+* 🔥[2024.03.24] The full paper for LSTKC is publicly available!
 * 🔥[2025.05.19] Our improved verison LSTKC++ is accepted by IEEE TPAMI. The full paper is available in [LSTKC++ Paper](https://ieeexplore.ieee.org/abstract/document/11010188/)!
 * 🔥[2025.06.12] The code for LSTKC++ is released in [LSTKC++ Code](https://github.com/zhoujiahuan1991/LSTKC-Plus-Plus).
   
